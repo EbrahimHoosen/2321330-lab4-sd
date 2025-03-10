@@ -3,7 +3,12 @@ body {
     text-align: center;
     margin: 20px;
 }
-
+#country-info{
+    text-align: left;
+}
+#bordering-countries{
+    text-align: left;
+}
 h1 {
     color: #333;
 }
@@ -30,7 +35,7 @@ button:hover {
 
 section {
     margin-top: 20px;
-    padding: 10px;
+    padding: 60px;
     border: 1px solid #ccc;
     border-radius: 5px;
     display: inline-block;
